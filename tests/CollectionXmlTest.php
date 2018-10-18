@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-class CollectionXml extends TestCase
+class XmlToArray extends TestCase
 {
 
     /** @test array */
