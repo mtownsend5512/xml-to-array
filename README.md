@@ -79,6 +79,7 @@ XML has always been a challenge to work with in PHP compared to other data forma
 
 - [mtownsend/collection-xml](https://github.com/mtownsend5512/collection-xml)
 - [mtownsend/request-xml](https://github.com/mtownsend5512/request-xml)
+- [mtownsend/response-xml](https://github.com/mtownsend5512/response-xml)
 
 ## Credits
 
