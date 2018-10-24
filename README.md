@@ -85,7 +85,15 @@ XML has always been a challenge to work with in PHP compared to other data forma
 
 - Mark Townsend
 - Adrien aka Gaarf
-- All Contributors
+- [All Contributors](../../contributors)
+
+## Testing
+
+You can run the tests with:
+
+```bash
+./vendor/bin/phpunit
+```
 
 ## License
 
